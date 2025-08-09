@@ -5,3 +5,9 @@ html {
     font-size: 12px;
     font-family: 'Courier New', sans-serif;
   }
+
+  h1 {
+    border: 2px solid salmon;
+    padding: 40px;
+    font-family: 'Courier New', sans-serif;
+  }
